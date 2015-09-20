@@ -1,0 +1,13 @@
+# Site settings
+title: Curt Poff
+email: curt.poff@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Testing out a Jekyll blog using Github.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cpoff.github.io" # the base hostname & protocol for your site
+twitter_username: cpoff
+github_username:  cpoff
+
+# Build settings
+markdown: kramdown
+permalink: pretty

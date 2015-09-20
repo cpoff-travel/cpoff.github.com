@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "My resume"
+author: Curt Poff
+date:   2015-05-27 11:25:09
+categories: general
+---
+We've been playing around with static site generators. Since I'm already using GitHub and Pages it seemed only logical that I use for testing. Jekyll is pretty straightforward so far. Let's see how I can make this easier.
+
+Meanwhile, here's my resume:
+
+**Curt Poff
+Portland Oregon
+(510) 229-­7964  
+curt.poff@gmail.com**
+
+**PERSONAL SUMMARY**
+I’m an ambitious problem solver who is new to the programming game. I’m still refining my code skills, but I bring 15 years of professional Web production experience. I’m a reliable, ambitious problem solver who is looking for a front-end developer potion with a great company. Preferably one that puts value in having fun.
+
+**CRITICAL SKILLS**
+—Proficient in HTML5, CSS, JavaScript (Node, Angular), Bootstrap, text editors and packages/plug-ins/tools, Git, Adobe Creative Suite (Photoshop), Web analytics (Omniture SiteCatalyst, Google). I also have extensive experience using database-­driven content management systems and Agile project management.
+
+**EXPERIENCE**
+Student - Full Stack Javascript Immersion program
+Portland Code School, present - Aug. 2015 —Over 500 hours of hands-on experience, building full-stack web applications with JavaScript using Node.js, MVC framework, and Test-Driven Development.
+
+Senior Producer - Interactive
+Walmart.com, San Bruno, Calif., Jan. 2013 - Nov. 2014 —Senior member of the web producer team in the Creative department in the Walmart.com Customer Experience group. 
+
+Online Managing Editor, Senior Web Producer, Product Manager
+Macworld/PCWorld, San Francisco, Calif., Feb. 2005 - Jan. 2013 —Owned and managed all editorial products (home pages, index and article pages), publishing platform (CMS), and live events through the entire product lifecycle. Moved from a position where I launched and maintained core editorial products, into one where I was responsible the overall success of the entire editorial product line.
+—Recipient of the 2008 Macworld/PCWorld Leadership Award.
+
+Online Editor
+Arizona Republic, Phoenix Ariz., Aug. 2001 - Feb. 2005
+
+Web Producer
+KGW ­ NewsChannel 8, Portland Ore., April 2000 - June 2001
+
+**EDUCATION**
+B.S. in History, Portland State University
+
