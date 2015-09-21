@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Curt Poff
-tagline: Recent examples of my work, plus some blog posts.
+tagline : Recent examples of my work, plus some blog posts.
 author :
   name : Curt Poff
   email : curt.poff@gmail.com
@@ -88,9 +88,9 @@ JB :
 	  account : 123abc
 	facebook :
 	  appid : 123
-	  num_posts: 5
-	  width: 580
-	  colorscheme: light
+	  num_posts : 5
+	  width : 580
+	  colorscheme : light
 	duoshuo :
 	  short_name : jekyllbootstrap
 
