@@ -12,7 +12,7 @@ layout: default
 		<!-- /.blurb -->
 	</div>
 	<!-- /.container -->
-  <h1>Blog Posts</h1>
+  <h1>Blog Posts:</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
