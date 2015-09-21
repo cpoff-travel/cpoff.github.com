@@ -8,7 +8,6 @@ http://username.github.io/rss.xml
 http://username.github.io/sitemap.txt
 http://username.github.io/tags.html
 
-http://username.github.io/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name%20copy
 http://username.github.io/job/2015/09/21/job-search-strategy
 http://username.github.io/jekyll/github/2015/09/19/jekyll-reset-again
 http://username.github.io/job/2015/09/17/summer

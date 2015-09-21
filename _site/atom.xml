@@ -4,50 +4,13 @@
  <title>Jekyll Bootstrap</title>
  <link href="http://username.github.io/atom.xml" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2015-09-21T13:31:04-07:00</updated>
+ <updated>2015-09-21T13:31:37-07:00</updated>
  <id>http://username.github.io</id>
  <author>
    <name>Name Lastname</name>
    <email>blah@email.test</email>
  </author>
 
- 
- <entry>
-   <title>TITLE</title>
-   <link href="http://username.github.io/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name%20copy"/>
-   <updated>2015-09-21T21:17:09-07:00</updated>
-   <id>http://username.github.io/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name copy</id>
-   <content type="html">&lt;p&gt;Post body.&lt;/p&gt;
-
-&lt;h1 id=&quot;h1-header&quot;&gt;h1 header&lt;/h1&gt;
-
-&lt;p&gt;Paragraphs are separated by a blank line.&lt;/p&gt;
-
-&lt;p&gt;2nd paragraph. &lt;em&gt;Italic&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, and &lt;code&gt;monospace&lt;/code&gt;. Itemized lists
-look like:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;this one&lt;/li&gt;
-  &lt;li&gt;that one&lt;/li&gt;
-  &lt;li&gt;the other one&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Note that — not considering the asterisk — the actual text
-content starts at 4-columns in.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Block quotes are
-written like so.&lt;/p&gt;
-
-  &lt;p&gt;They can span multiple paragraphs,
-if you like.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., “it’s all
-in chapters 12–14”). Three dots … will be converted to an ellipsis.
-Unicode is supported. ☺&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>Job search strategy</title>
