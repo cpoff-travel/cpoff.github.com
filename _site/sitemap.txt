@@ -1,19 +1,19 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+/archive/
+/atom.xml
+/categories/
+/
+/
+/pages/
+/rss.xml
+/sitemap.txt
+/tags/
 
-http://username.github.io/job/2015/09/21/job-search-strategy
-http://username.github.io/jekyll/github/2015/09/19/jekyll-reset-again
-http://username.github.io/job/2015/09/17/summer
-http://username.github.io/general/2015/09/17/hello-world
-http://username.github.io/general/2015/05/27/panic
-http://username.github.io/diet/2015/05/27/more-fish-please
-http://username.github.io/general/2015/05/27/resume
-http://username.github.io/general/2015/05/27/introduction
+/job/2015/09/21/job-search-strategy/
+/jekyll/github/2015/09/19/jekyll-reset-again/
+/job/2015/09/17/summer/
+/general/2015/09/17/hello-world/
+/general/2015/05/27/panic/
+/diet/2015/05/27/more-fish-please/
+/general/2015/05/27/resume/
+/general/2015/05/27/introduction/
