@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-        <title>Curt Poff</title>
-        <description>Curt Poff - </description>
-        <link></link>
-        <atom:link href="" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 21 Sep 2015 13:15:44 -0700</lastBuildDate>
-        <pubDate>Mon, 21 Sep 2015 13:15:44 -0700</pubDate>
+        <title>Jekyll Bootstrap</title>
+        <description>Jekyll Bootstrap - Name Lastname</description>
+        <link>http://username.github.io</link>
+        <atom:link href="http://username.github.io/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 21 Sep 2015 13:16:34 -0700</lastBuildDate>
+        <pubDate>Mon, 21 Sep 2015 13:16:34 -0700</pubDate>
         <ttl>60</ttl>
 
 
@@ -42,8 +42,8 @@ if you like.&lt;/p&gt;
 in chapters 12–14”). Three dots … will be converted to an ellipsis.
 Unicode is supported. ☺&lt;/p&gt;
 </description>
-                <link>/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name%20copy/</link>
-                <guid>/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name copy</guid>
+                <link>http://username.github.io/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name%20copy</link>
+                <guid>http://username.github.io/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name copy</guid>
                 <pubDate>Mon, 21 Sep 2015 21:17:09 -0700</pubDate>
         </item>
 
@@ -53,8 +53,8 @@ Unicode is supported. ☺&lt;/p&gt;
 
 &lt;p&gt;For now I’ve been fiddling with this blog and my GitHub Pages stuff in general.&lt;/p&gt;
 </description>
-                <link>/job/2015/09/21/job-search-strategy/</link>
-                <guid>/job/2015/09/21/job-search-strategy</guid>
+                <link>http://username.github.io/job/2015/09/21/job-search-strategy</link>
+                <guid>http://username.github.io/job/2015/09/21/job-search-strategy</guid>
                 <pubDate>Mon, 21 Sep 2015 04:21:14 -0700</pubDate>
         </item>
 
@@ -65,8 +65,8 @@ Unicode is supported. ☺&lt;/p&gt;
 &lt;p&gt;The challenge will be updates as they use a fairly manual template process.&lt;/p&gt;
 
 </description>
-                <link>/jekyll/github/2015/09/19/jekyll-reset-again/</link>
-                <guid>/jekyll/github/2015/09/19/jekyll-reset-again</guid>
+                <link>http://username.github.io/jekyll/github/2015/09/19/jekyll-reset-again</link>
+                <guid>http://username.github.io/jekyll/github/2015/09/19/jekyll-reset-again</guid>
                 <pubDate>Sat, 19 Sep 2015 16:36:34 -0700</pubDate>
         </item>
 
@@ -76,8 +76,8 @@ Unicode is supported. ☺&lt;/p&gt;
 
 &lt;p&gt;Soon I’ll likely expand the job search from just developer positions to include web producer and project manager gigs. I’m still determined to be a developer but I’m also sensitive to the fact that I need steady work. The sooner the better. I hope it all works out.&lt;/p&gt;
 </description>
-                <link>/job/2015/09/17/summer/</link>
-                <guid>/job/2015/09/17/summer</guid>
+                <link>http://username.github.io/job/2015/09/17/summer</link>
+                <guid>http://username.github.io/job/2015/09/17/summer</guid>
                 <pubDate>Thu, 17 Sep 2015 00:00:00 -0700</pubDate>
         </item>
 
@@ -85,8 +85,8 @@ Unicode is supported. ☺&lt;/p&gt;
                 <title>Jekyll is now running</title>
                 <description>&lt;p&gt;I recently installed the Jekyll blog engine on my GitHub Pages site. All good so far but the configuration is going to take some time.&lt;/p&gt;
 </description>
-                <link>/general/2015/09/17/hello-world/</link>
-                <guid>/general/2015/09/17/hello-world</guid>
+                <link>http://username.github.io/general/2015/09/17/hello-world</link>
+                <guid>http://username.github.io/general/2015/09/17/hello-world</guid>
                 <pubDate>Thu, 17 Sep 2015 00:00:00 -0700</pubDate>
         </item>
 
@@ -103,8 +103,8 @@ Unicode is supported. ☺&lt;/p&gt;
 &lt;p&gt;In today’s tech market, that’s absolutely tremendous. I guess it shows that if you take care of your employees, you don’t have to deal with turnover.&lt;/p&gt;
 
 </description>
-                <link>/general/2015/05/27/panic/</link>
-                <guid>/general/2015/05/27/panic</guid>
+                <link>http://username.github.io/general/2015/05/27/panic</link>
+                <guid>http://username.github.io/general/2015/05/27/panic</guid>
                 <pubDate>Wed, 27 May 2015 14:17:09 -0700</pubDate>
         </item>
 
@@ -120,8 +120,8 @@ Unicode is supported. ☺&lt;/p&gt;
 
 &lt;p&gt;Pair it with some green beans and garlic toast and you have my go-to meal for 2015.&lt;/p&gt;
 </description>
-                <link>/diet/2015/05/27/more-fish-please/</link>
-                <guid>/diet/2015/05/27/more-fish-please</guid>
+                <link>http://username.github.io/diet/2015/05/27/more-fish-please</link>
+                <guid>http://username.github.io/diet/2015/05/27/more-fish-please</guid>
                 <pubDate>Wed, 27 May 2015 09:47:17 -0700</pubDate>
         </item>
 
@@ -163,8 +163,8 @@ KGW ­ NewsChannel 8, Portland Ore., April 2000 - June 2001&lt;/p&gt;
 B.S. in History, Portland State University&lt;/p&gt;
 
 </description>
-                <link>/general/2015/05/27/resume/</link>
-                <guid>/general/2015/05/27/resume</guid>
+                <link>http://username.github.io/general/2015/05/27/resume</link>
+                <guid>http://username.github.io/general/2015/05/27/resume</guid>
                 <pubDate>Wed, 27 May 2015 04:25:09 -0700</pubDate>
         </item>
 
@@ -172,8 +172,8 @@ B.S. in History, Portland State University&lt;/p&gt;
                 <title>Introduction</title>
                 <description>&lt;p&gt;We’ve been playing around with static site generators. Since I’m already using GitHub and Pages it seemed only logical that I use for testing. Jekyll is pretty straightforward so far. Let’s see how I can make this easier.&lt;/p&gt;
 </description>
-                <link>/general/2015/05/27/introduction/</link>
-                <guid>/general/2015/05/27/introduction</guid>
+                <link>http://username.github.io/general/2015/05/27/introduction</link>
+                <guid>http://username.github.io/general/2015/05/27/introduction</guid>
                 <pubDate>Wed, 27 May 2015 04:25:09 -0700</pubDate>
         </item>
 

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Curt Poff</title>
- <link href="" rel="self"/>
- <link href=""/>
- <updated>2015-09-21T13:15:44-07:00</updated>
- <id></id>
+ <title>Jekyll Bootstrap</title>
+ <link href="http://username.github.io/atom.xml" rel="self"/>
+ <link href="http://username.github.io"/>
+ <updated>2015-09-21T13:16:34-07:00</updated>
+ <id>http://username.github.io</id>
  <author>
-   <name></name>
-   <email></email>
+   <name>Name Lastname</name>
+   <email>blah@email.test</email>
  </author>
 
  
  <entry>
    <title>TITLE</title>
-   <link href="/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name%20copy/"/>
+   <link href="http://username.github.io/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name%20copy"/>
    <updated>2015-09-21T21:17:09-07:00</updated>
-   <id>/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name copy</id>
+   <id>http://username.github.io/lessons/beginner/2015/09/21/YYYY-MM-DD-post-name copy</id>
    <content type="html">&lt;p&gt;Post body.&lt;/p&gt;
 
 &lt;h1 id=&quot;h1-header&quot;&gt;h1 header&lt;/h1&gt;
@@ -51,9 +51,9 @@ Unicode is supported. ☺&lt;/p&gt;
  
  <entry>
    <title>Job search strategy</title>
-   <link href="/job/2015/09/21/job-search-strategy/"/>
+   <link href="http://username.github.io/job/2015/09/21/job-search-strategy"/>
    <updated>2015-09-21T04:21:14-07:00</updated>
-   <id>/job/2015/09/21/job-search-strategy</id>
+   <id>http://username.github.io/job/2015/09/21/job-search-strategy</id>
    <content type="html">&lt;p&gt;Now that I’ve spoken to several companies about web developer jobs, it’s clear the market is more competitive than I originally estimated. I’ve been dead-set against pursuing internships or volunteer opportunities in favor of a full-time (&lt;em&gt;paid&lt;/em&gt;) role. I plan to maintain that strategy for as long as possible.&lt;/p&gt;
 
 &lt;p&gt;For now I’ve been fiddling with this blog and my GitHub Pages stuff in general.&lt;/p&gt;
@@ -62,9 +62,9 @@ Unicode is supported. ☺&lt;/p&gt;
  
  <entry>
    <title>Reset, all over again</title>
-   <link href="/jekyll/github/2015/09/19/jekyll-reset-again/"/>
+   <link href="http://username.github.io/jekyll/github/2015/09/19/jekyll-reset-again"/>
    <updated>2015-09-19T16:36:34-07:00</updated>
-   <id>/jekyll/github/2015/09/19/jekyll-reset-again</id>
+   <id>http://username.github.io/jekyll/github/2015/09/19/jekyll-reset-again</id>
    <content type="html">&lt;p&gt;I feel like I finally have a grip on Jekyll as it runs in GitHub Pages. It took several attempts to install the Jekyll engine (parser) inside the existing directory and setup, but it seems to be working. I had to delete the Pages directory a couple times and it looks like I lost some update counts. But whatevs.&lt;/p&gt;
 
 &lt;p&gt;The challenge will be updates as they use a fairly manual template process.&lt;/p&gt;
@@ -74,9 +74,9 @@ Unicode is supported. ☺&lt;/p&gt;
  
  <entry>
    <title>Still on the lookout</title>
-   <link href="/job/2015/09/17/summer/"/>
+   <link href="http://username.github.io/job/2015/09/17/summer"/>
    <updated>2015-09-17T00:00:00-07:00</updated>
-   <id>/job/2015/09/17/summer</id>
+   <id>http://username.github.io/job/2015/09/17/summer</id>
    <content type="html">&lt;p&gt;Summer is drawing to a close here in Portland, and I’m still looking for work. I had a good month of job search once my code class was done. But no solid offers came from it. So I’ll continue the search.&lt;/p&gt;
 
 &lt;p&gt;Soon I’ll likely expand the job search from just developer positions to include web producer and project manager gigs. I’m still determined to be a developer but I’m also sensitive to the fact that I need steady work. The sooner the better. I hope it all works out.&lt;/p&gt;
@@ -85,18 +85,18 @@ Unicode is supported. ☺&lt;/p&gt;
  
  <entry>
    <title>Jekyll is now running</title>
-   <link href="/general/2015/09/17/hello-world/"/>
+   <link href="http://username.github.io/general/2015/09/17/hello-world"/>
    <updated>2015-09-17T00:00:00-07:00</updated>
-   <id>/general/2015/09/17/hello-world</id>
+   <id>http://username.github.io/general/2015/09/17/hello-world</id>
    <content type="html">&lt;p&gt;I recently installed the Jekyll blog engine on my GitHub Pages site. All good so far but the configuration is going to take some time.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Panic!</title>
-   <link href="/general/2015/05/27/panic/"/>
+   <link href="http://username.github.io/general/2015/05/27/panic"/>
    <updated>2015-05-27T14:17:09-07:00</updated>
-   <id>/general/2015/05/27/panic</id>
+   <id>http://username.github.io/general/2015/05/27/panic</id>
    <content type="html">&lt;p&gt;Today several of us from &lt;a href=&quot;http://www.portlandcodeschool.com&quot;&gt;Portland Code School&lt;/a&gt; took a tour of &lt;a href=&quot;http://panic.com/&quot;&gt;Panic Software&lt;/a&gt;. We do about one tour a week and this one was pretty unique.&lt;/p&gt;
 
 &lt;p&gt;First, Panic is the first company we toured where I’m a customer. I’ve been a long-time Transmit FTP user. Plus I’ve become a bit of a Coda fan lately. First class software all around.&lt;/p&gt;
@@ -112,9 +112,9 @@ Unicode is supported. ☺&lt;/p&gt;
  
  <entry>
    <title>More fish, please</title>
-   <link href="/diet/2015/05/27/more-fish-please/"/>
+   <link href="http://username.github.io/diet/2015/05/27/more-fish-please"/>
    <updated>2015-05-27T09:47:17-07:00</updated>
-   <id>/diet/2015/05/27/more-fish-please</id>
+   <id>http://username.github.io/diet/2015/05/27/more-fish-please</id>
    <content type="html">&lt;p&gt;Over the years, my wife and I got into the habit of eating most meals separately. The idea evolved from Ann’s dietary needs.&lt;/p&gt;
 
 &lt;p&gt;She eats pretty healthy. I usually piece together what I can.&lt;/p&gt;
@@ -129,9 +129,9 @@ Unicode is supported. ☺&lt;/p&gt;
  
  <entry>
    <title>My resume</title>
-   <link href="/general/2015/05/27/resume/"/>
+   <link href="http://username.github.io/general/2015/05/27/resume"/>
    <updated>2015-05-27T04:25:09-07:00</updated>
-   <id>/general/2015/05/27/resume</id>
+   <id>http://username.github.io/general/2015/05/27/resume</id>
    <content type="html">&lt;p&gt;We’ve been playing around with static site generators. Since I’m already using GitHub and Pages it seemed only logical that I use for testing. Jekyll is pretty straightforward so far. Let’s see how I can make this easier.&lt;/p&gt;
 
 &lt;p&gt;Meanwhile, here’s my resume:&lt;/p&gt;
@@ -172,9 +172,9 @@ B.S. in History, Portland State University&lt;/p&gt;
  
  <entry>
    <title>Introduction</title>
-   <link href="/general/2015/05/27/introduction/"/>
+   <link href="http://username.github.io/general/2015/05/27/introduction"/>
    <updated>2015-05-27T04:25:09-07:00</updated>
-   <id>/general/2015/05/27/introduction</id>
+   <id>http://username.github.io/general/2015/05/27/introduction</id>
    <content type="html">&lt;p&gt;We’ve been playing around with static site generators. Since I’m already using GitHub and Pages it seemed only logical that I use for testing. Jekyll is pretty straightforward so far. Let’s see how I can make this easier.&lt;/p&gt;
 </content>
  </entry>
